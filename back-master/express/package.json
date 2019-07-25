@@ -1,6 +1,7 @@
 {
   "private": true,
   "dependencies": {
+    "angular-material": "http://github.com/angular/bower-material/tarball/master",
     "express": "^4.16.4",
     "helmet": "^3.18.0",
     "moment": "^2.24.0"
